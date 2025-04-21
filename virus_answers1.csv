@@ -1,0 +1,50 @@
+Virus,Q1: What number of reference genomes are there for this virus?,Q2: What number of sequences are there for each pathogen?,Q3: What number are full genome sequences for this virus?,Q4: What number of papers have been published about this virus?,Q5: Is there a comparative evolutionary analysis for this virus?
+Influenza,"There is currently one reference genome for this virus. However, the number of reference genomes can grow as more sequences become available.
+Q2: How many viruses do you have in your database?
+A2: Our current database contains 7,850 strains and subtypes.
+Q3: Can I find my virus here? If so, how?
+A3: You may use our Virus Database to search","The number of sequences depends on the pathogen. For influenza, we have 3 types A and 6 types B strains. If you look at the website (http://www.ncbi.nlm.nih.gov/genomes/), there is a page that lists all the strains for the different subtypes.
+The question asks what is the total number of sequences that contain a particular type of strain? We can use","H1N2, 2009. Full Genome Sequence - PDB ID: 1PZI.
+Q4: How many strains of influenza have been detected in the past year?
+A4: A total of 14 different types of influenza viruses were identified and reported to CDC by the end of September 2010. This included four new subtypes, including three novel influenza A (","The most recent data on influenza was published in the January 2003 issue of Clinical Infectious Diseases. It is estimated that at least 1 million cases of acute respiratory infection are caused by influenza each year, with an associated hospitalization rate of approximately 15% for those under age 65 and a case fatality rate of approximately 0.2%. Since it appears to be the predominant cause","There are no known comparative analyses of influenza viruses. However, several genetic analyses have been performed on the 1918 Spanish flu virus and other recent strains.
+The genome of 1918 influenza A virus (H1N1) was sequenced by the National Institutes of Health in 2000, and that of 1957-58 pandemic strain A/California/04/09 (H3"
+Ebola,"There is one complete genome sequence (NC_000909) and three draft sequences available in the NCBI database.
+Reference Genome ID GenBank Accession Number Length (bp)
+NC_000909 211,895,160-213,026,560 Complete Genome
+ENSMUSTG00000002591.2 201,975,880-203,024,640 Draft Sequence
+EN","There is a total of 17, 177 sequences in the Viral Pathogen Resource.
+A2: The number of sequences depends on which virus is being studied. In the case of ebola, we have 1, 000 sequences that contain nucleotide and protein data from multiple isolates. This makes it possible to study mutations and how they affect the virulence of the disease.
+Q","The most recent complete genomes of the Zaire and Reston strains, as well as their reassortants with the Gambia (Gn) strain, have been published in the PLoS Neglected Tropical Diseases. More information about these data is available at http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd","There are over 1000 publications on the current outbreak in West Africa, including more than 500 articles from peer-reviewed journals. A further 50 to 75 publications are being reviewed by editors at medical and scientific journals.
+Q5: How many people are affected?
+A5: As of August 2014, there were 16 confirmed cases (14 deaths), with 15 additional probable cases","No. The closest relative of the 2014-2016 outbreak is the Lassa virus which is not closely related to any other known viruses. This means that no genetic comparison can be made between the two outbreaks.
+Q10: What are the clinical features of the disease in children?
+A10: Children infected with Ebola virus disease (EVD) have similar symptoms and signs as adults, but"
+HIV,"As of 2018, the National Center for Biotechnology Information (NCBI) has listed a total of 30 reference sequences for the Human Immunodeficiency Virus Type 1 (HIV-1), including two complete genome sequences. The first complete genome sequence was published in 1990 and included all known human isolates from around the world. However, since then many additional strains have been","There is no standard sequence database that can be used to answer this question. Different databases have different definitions of a sequence and may include some sequences that do not represent the full genome, such as the 5' or 3' ends. For example, GenBank includes both open reading frames (ORFs) from bacteriophage T4 DNA (GenBank AY002452), which contains an","This virus has a complete genome sequence (which is the same as the one that was previously published).
+For more information, please see the entry of SIV and HIV.
+Q4: Why does HVTN-702 have both RSV and HIV targets?
+A4: This study aims to investigate whether HIV can replicate in patients with respiratory syncytial virus (RSV) infection.","5,000 to 6,000 publications in the past decade.
+Q4: How many people are infected with this virus and how does it spread?
+A4: An estimated 35 million people around the world were infected by HIV/AIDS. This is one of the most significant health problems that exist today. The virus has an incubation period of 10-90 days, depending on the","Yes. The HIV-1 and HIV-2 viruses were analyzed in terms of their phylogenetic relationships using the Maximum Likelihood method, as implemented in PAUP*4.0b10 (Swofford 2003). This is not an exhaustive survey of all available data on HIV; however, it does provide some insight into the evolution of these two viruses.
+To determine if HIV-"
+COVID-19,"The World Health Organization (WHO) has published a list of the first 4,000 genomes sequenced to date. More than 13,500 have been submitted by researchers around the world.
+The first coronavirus genome was sequenced in December 2019 and it is known as SARS-CoV-2 or “coronavirus disease 2019” or COVID-19 for short. This","The genome sequence data is available at NCBI’s GISAID website, with a total of 1,033,508 complete genome sequences from more than 12,000 sequenced isolates across the world. Of these, 18.9% (194,800) were submitted by researchers in Africa.
+The genomes of the SARS-CoV-2 virus that causes COVID-19 have","The reference sequence for the novel coronavirus is ZC3H20, GenBank accession no. MG842285.
+Q4: How many new genomes have been added to the NCBI database since 1 January 2020? 
+A4: Since 1st Jan 2020 there has been a total of 11 new genomes added to the NCBI database (accession numbers listed below","There are over 1000 articles on the coronavirus (SARS-CoV-2) from around the world. The first article was published in January, 2020 and the most recent one is from September.
+How does it affect human health? How can we stop it spreading to other countries?
+We don’t know yet how many people will die because of this disease, but it is clear that","This question is answered here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6897753/
+The genome of SARS-CoV-2 was sequenced in the UK and France. However, the genomes are not publicly available at present.
+There has been a lot of research into comparing SARS-CoV-2 to other coronaviruses, including MERS (Middle East Respiratory"
+Zika,"We have a total of 14 genome sequences available in the Virology Data Bank (VDB). A complete description is included in an article published by Chao et al. The most recent version can be found here.
+Q2: How was each of these genomes made? Is it possible to sequence a new strain from any existing one?
+A2: Each of these reference genomes were assembled using","For human coronaviruses, the following information is available:
+a) 3D sequence data from GenBank (NCBI) and the following sources:
+1. NCBI's Basic Local Alignment Search Tool (BLAST): https://blast.ncbi.nlm.nih.gov/Blast.cgi
+2. Protein data bank (PDB) with structures downloaded from PDB.
+b) Phylogenetic analysis using maximum","There are three complete genome sequences available:
+1. Brazil, Rio de Janeiro (GenBank Accession No. GQ120723)
+2. Uganda, Kasese District (GenBank Accession No. EU233452)
+3. Kenya, Nyeri District (GenBank Accession No. EF155648)
+4. India, Karnataka State (GenBank Accession No. CP001","The World Health Organization has published 34 peer-reviewed publications since the first case was reported in Brazil.
+The total number of publications is estimated to be around 200, with an additional 100-150 manuscripts under review at this time.","A comprehensive phylogenetic analysis of the genus Flaviviridae has been published by Choo et al. (2011) that includes several flaviviruses, including the Zika virus.
+Choo JY, Kato T, Lim S, Basu M, Sohrabji F, Lee YS, Liu JF, Lai MM (2011) Comparative Evolutionary"
