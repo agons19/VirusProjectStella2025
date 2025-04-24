@@ -8,10 +8,10 @@
 #SBATCH --error=hgfctrial-%j.err  # Standard error file
 
 # Change to the directory where the script is located
-cd /home/tuq33671/VirusProjectStella2025
+cd /home/tuq33671/VirusProjectStella2025/Llama_7B_Model
 
 # Load any required modules (if applicable)
 # Example: module load python/3.8
 
 # Run the Python script
-python scratch1.py
+python Llama7BModel.py

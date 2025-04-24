@@ -1,0 +1,49 @@
+Virus,Q1,Q2,Q3,Q4,Q5
+Alkhurma virus,256,1,1,125,1
+Cache Valley virus,256,1,1,125,1
+Caliciviruses,256,156,125,1253,1
+California encephalitis virus,256,1,1,125,1
+Chapare virus,256,1,1,125,1
+Chikungunya virus,256,153,1,1253,1
+Crimean-Congo hemorrhagic fever virus,256,1,1,125,1
+Dengue virus,256,156,125,1253,1
+Eastern equine encephalitis virus,256,156,1,125,1
+Ebola virus,256,156,125,1253,1
+Enterovirus D68,253,135,125,125,1
+Enterovirus A71,256,356,256,253,0
+Guanarito virus,256,1,1,125,1
+Hantaviruses,256,135,1,125,1
+Heartland virus,256,1,1,125,1
+Hendra virus,256,135,1,125,1
+Hepatitis A virus,256,153,1,1253,1
+Influenza viruses,256,156,125,1253,1
+Japanese encephalitis virus,256,135,1,125,1
+Junin virus,256,135,1,125,1
+Kyasanur Forest virus,256,154,1,125,1
+LaCrosse encephalitis virus,256,1,1,125,1
+Langya virus,25,1,1,125,1
+Lassa virus,256,156,1,125,1
+Lujo virus,256,1,1,125,1
+Lymphocytic choriomeningitis virus,256,156,1,1253,1
+Machupo virus,256,1,1,125,1
+Marburg virus,256,1,1,125,1
+Mayaro virus,256,1,1,125,1
+Nipah virus,256,135,1,125,1
+O’nyong-nyong virus,256,156,1,125,1
+Omsk hemorrhagic fever virus,256,156,1,125,1
+Oropouche virus,256,156,1,125,1
+Poliovirus,256,153,125,1253,1
+Powassan,256,1,1,125,1
+Punta Toro virus,256,1,1,125,1
+Rabies virus,256,153,1,1253,1
+Rift Valley fever virus,256,135,1,125,1
+St. Louis encephalitis virus,256,156,1,125,1
+Severe acute respiratory syndrome associated coronavirus,256,1,125,1253,1
+Severe fever with thrombocytopenia syndrome virus,256,135,1,125,1
+Tick-borne encephalitis virus,256,156,125,1253,1
+Variola virus,256,1,1,125,1
+Venezuelan equine encephalitis virus,256,156,1,125,1
+West Nile virus,256,135,125,1253,1
+Western equine encephalitis virus,256,156,1,125,1
+Yellow fever virus,256,1,1,1253,1
+Zika virus,256,135,125,1253,1

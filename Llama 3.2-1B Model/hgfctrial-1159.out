@@ -1,0 +1,14 @@
+===================================================
+Begin TASK Prologue Thu Apr 24 01:49:56 PM EDT 2025
+===================================================
+Job ID:           1159
+Username:         tuq33671
+Group:            bio
+Job Name:         hgfctrial_job
+Resources List:   nodes=1:ppn=1:ntasks=1
+Queue:            normal
+Account:          default
+Nodes:      c01
+===================================================
+End TASK Prologue Thu Apr 24 01:49:56 PM EDT 2025
+===================================================

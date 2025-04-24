@@ -1,0 +1,14 @@
+python: can't open file '/home/tuq33671/VirusProjectStella2025/Llama 7B Model/Llama7bModel.py': [Errno 2] No such file or directory
+/var/spool/slurm/task_epilogue: line 16: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 17: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 18: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 19: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 20: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 27: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 28: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 29: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 31: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 32: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 35: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 36: $SLURM_JOB_STDOUT: ambiguous redirect
+/var/spool/slurm/task_epilogue: line 37: $SLURM_JOB_STDOUT: ambiguous redirect
